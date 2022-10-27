@@ -1,4 +1,7 @@
-//Comment Here Chad😂😉
+// 1
+// 23
+// 456
+// 78910
 import java.util.Scanner;
 
 public class P7{
