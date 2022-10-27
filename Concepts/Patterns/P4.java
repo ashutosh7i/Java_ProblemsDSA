@@ -1,3 +1,6 @@
+// 123
+// 456
+// 789
 import java.util.Scanner;
 public class P4{
     public static void main (String[] args){
@@ -9,7 +12,7 @@ public class P4{
             System.out.print(" "+count);
             count++;
         }
-    System.out.println();
+        System.out.println();
     }
         
     }
